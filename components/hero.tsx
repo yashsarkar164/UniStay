@@ -29,7 +29,7 @@ export function Hero() {
               <p className="text-sm text-muted-foreground">Listed PGs</p>
             </div>
             <div className="animate-fade-in-up stagger-4">
-              <p className="text-2xl sm:text-3xl font-bold text-primary animate-bounce-gentle" style={{animationDelay: '0.2s'}}>2500+</p>
+              <p className="text-2xl sm:text-3xl font-bold text-primary animate-bounce-gentle" style={{animationDelay: '0.2s'}}>250+</p>
               <p className="text-sm text-muted-foreground">Happy Students</p>
             </div>
             <div className="animate-fade-in-up stagger-5">

@@ -8,7 +8,7 @@ export function FAQ() {
   const faqs = [
     {
       question: 'How do I search for PGs near ADTU?',
-      answer: 'Use our advanced search and filter system to browse 500+ verified PGs. Filter by price, amenities, gender preferences, and more to find your perfect match.'
+      answer: 'Use our advanced search and filter system to browse 50+ verified PGs. Filter by price, amenities, gender preferences, and more to find your perfect match.'
     },
     {
       question: 'Are all listings on the platform verified?',

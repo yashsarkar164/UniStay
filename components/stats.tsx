@@ -2,8 +2,8 @@
 
 export function Stats() {
   const stats = [
-    { number: '500+', label: 'Verified PGs' },
-    { number: '2000+', label: 'Happy Students' },
+    { number: '50+', label: 'Verified PGs' },
+    { number: '200+', label: 'Happy Students' },
     { number: '100%', label: 'Safe & Verified' },
     { number: '24/7', label: 'Customer Support' }
   ]
