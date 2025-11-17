@@ -25,7 +25,7 @@ export function Hero() {
 
           <div className="grid grid-cols-3 gap-4 sm:gap-6 max-w-md mx-auto text-center">
             <div className="animate-fade-in-up stagger-3">
-              <p className="text-2xl sm:text-3xl font-bold text-primary animate-bounce-gentle">150+</p>
+              <p className="text-2xl sm:text-3xl font-bold text-primary animate-bounce-gentle">50+</p>
               <p className="text-sm text-muted-foreground">Listed PGs</p>
             </div>
             <div className="animate-fade-in-up stagger-4">
